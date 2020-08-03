@@ -1,5 +1,7 @@
-# Linter gitlab-ci
+# Linter gitlab-ci 
 > Скрипт для линтовки gitlab-ci pipelines
+
+This used in [g-ci family](https://gitlab.com/g-ci)
 
 #### Использование в терминале
 Аргументы
