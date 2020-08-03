@@ -30,7 +30,7 @@
 ---
 Пример запроса:
 
-**`$ python ~/main.py -u https://git.adm.selectel.org -id 11 -t 1234 -m *.yml *.md`**
+**`$ python ~/main.py -u https://your-self-hosted-gitlab.org -id 11 -t 1234 -m *.yml *.md`**
 
 Пример ответа:
 
